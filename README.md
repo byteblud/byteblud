@@ -95,15 +95,6 @@ I'm always open to new opportunities, collaborations, or just a friendly chat ab
 
 If you found my projects helpful or learned something from my code, consider supporting my work:
 
-<div align="center">
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/YOUR_USERNAME) <!-- TODO: Replace YOUR_USERNAME with your Buy Me A Coffee username -->
-
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/YOUR_USERNAME) <!-- TODO: Replace YOUR_USERNAME with your Ko-fi username -->
-
-[![Sponsor](https://img.shields.io/badge/GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/byteblud) <!-- TODO: Replace byteblud with your GitHub username if different for sponsors -->
-
-</div>
 
 <div align="center">
   <sub>💡 <i>Every contribution, no matter how small, helps me maintain and improve my open source projects!</i></sub>
