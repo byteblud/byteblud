@@ -47,17 +47,7 @@ I'm always expanding my toolkit, but here are some of the technologies I'm curre
 
 
 
-### 📅 Contribution Calendar
-<img src="https://ghchart.rshah.org/409ba5/byteblud" alt="Contribution Calendar" width="100%"/>
 
-### ⚡ Recent Activity
-<!--START_SECTION:activity-->
-<!-- TODO: Set up GitHub Actions to auto-update this section to showcase your latest activities! -->
-<!--END_SECTION:activity-->
-
-## 🏗️ Featured Projects
-
-Here are a few projects I'm particularly proud of, showcasing my skills and interests.
 
 <div align="center">
 
@@ -91,14 +81,7 @@ I'm always open to new opportunities, collaborations, or just a friendly chat ab
 
 ---
 
-## ☕ Support My Work
 
-If you found my projects helpful or learned something from my code, consider supporting my work:
-
-
-<div align="center">
-  <sub>💡 <i>Every contribution, no matter how small, helps me maintain and improve my open source projects!</i></sub>
-</div>
 
 ---
 
