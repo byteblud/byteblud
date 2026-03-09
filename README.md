@@ -53,12 +53,18 @@ I'm always expanding my toolkit, but here are some of the technologies I'm curre
 
 
 
+
+
+
 ## 🎯 2026Goals
 <!-- TODO: Update with your current year goals -->
 - 🚀 Contribute to 3+ open source projects
 - 📚 Master a new framework like Vue.js or Angular
 - 🌟 Build and deploy my first full-stack application
 - 📝 Write 4+ technical blog posts about my learning journey
+
+
+
 
 ## 🌐 Let's Connect & Collaborate
 
