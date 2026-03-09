@@ -42,7 +42,7 @@ I'm always expanding my toolkit, but here are some of the technologies I'm curre
 
 
 
-**# 🐍 Contribution Snake
+### 🐍 Contribution Snake
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/handaaditya470-bit/handaaditya470-bit/output/github-contribution-grid-snake.svg"/>
