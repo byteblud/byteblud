@@ -1,4 +1,4 @@
-# Hi there! 👾 I'm ByteBro.
+# Hi there! 👾 I'm Love Kumar.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=003fef&width=435&lines=CSE+Student;Aspiring+Developer;Exploring+New+Tech;Always+Learning+New+Things)](https://git.io/typing-svg)
 
